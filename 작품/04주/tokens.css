@@ -1,0 +1,19 @@
+/* DESIGN.md 토큰 표와 1:1. 값은 여기에만 적는다. */
+:root {
+  --color-bg: #211D20;
+  --color-ink: #F2FFF1;
+  --color-muted: #B8C4B5;
+  --color-accent: #E8B166;
+  --font-body: Pretendard, sans-serif;
+  --font-display: "Noto Serif KR", serif;
+  --size-body: 16px;
+  --size-h3: 20px;
+  --size-h2: 26px;
+  --size-h1: 40px;
+  --space-xs: 8px;
+  --space-s: 16px;
+  --space-m: 32px;
+  --space-section: 96px;
+  --radius: 0px;
+  --max-width: 1200px;
+}
